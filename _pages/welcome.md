@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-This page is deprecated. See the [newest version of this page](https://mcm2025chicago.org/).
+## This page is deprecated. See the [newest version of this page](https://mcm2025chicago.org/).
 
 The biennial International Conference on Monte Carlo Methods and Applications (MCM) (formerly IMACS Seminar on Monte Carlo Methods) is one of the most prominent conference series devoted to research on stochastic simulation and Monte Carlo methods. The 15th edition, MCM 2025, will take place from July 28 to August 1, 2025, at the Illinois Institute of Technology, Chicago, US. MCM 2025 brings together a multidisciplinary community of Monte Carlo researchers and practitioners to share their latest discoveries.
 
