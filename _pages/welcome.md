@@ -4,6 +4,7 @@ layout: homelay
 excerpt: "MCM 2025 in Chicago, Illinois."
 sitemap: false
 permalink: /
+redirect_to: "https://fjhickernell.github.io/mcm2025/"
 ---
 
 ## This page is deprecated. See the [newest version of this page](https://mcm2025chicago.org/).
